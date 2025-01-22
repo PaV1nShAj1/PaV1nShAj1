@@ -30,7 +30,8 @@ Typosquatting is when someone registers a domain name that is an intentionally m
 ```python
 domain = "legit-website.com"
 phishing_domain = domain.replace("i", "l")  # Replacing 'i' with 'l'
-print(phishing_domain)  # Outputs: "leglt-website.com"
+print(phishing_domain)  # Outputs: "leglt-website.com" '''
+
 ## IP Infringement
 Intellectual property (IP) infringement is the unauthorized use of a protected intellectual property right, such as a trademark, patent, copyright, industrial design, plant breeder’s right, or trade secret. Although intellectual-property infringement can be unintentional, it still unacceptable under the eyes of the law. The most common examples of intellectual property disputes include using another person’s words, images, or logo without the property owner’s permission
 ## Phishing
